@@ -1,0 +1,8 @@
+RatecodeId,rate_code_name,description,applies_to
+1,Standard rate,Default metered rate for trips within NYC,All zones
+2,JFK,Flat rate for trips to/from JFK Airport,$70 flat (excludes tolls and tips)
+3,Newark,Negotiated rate for trips to Newark Airport,NJ surcharge applies
+4,Nassau or Westchester,Rate for trips to Nassau or Westchester County,Outside NYC jurisdiction
+5,Negotiated fare,Fare agreed upon between driver and passenger before trip,Non-metered
+6,Group ride,Shared ride rate for multiple passengers,Split fare
+99,Unknown,Null or unknown rate code — data quality issue,N/A

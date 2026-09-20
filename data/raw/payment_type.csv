@@ -1,0 +1,7 @@
+payment_type_id,payment_type_name,description
+1,Credit card,Payment by credit card
+2,Cash,Payment by cash
+3,No charge,Free trip
+4,Dispute,Disputed trip
+5,Unknown,Unknown payment
+6,Voided trip,Voided
